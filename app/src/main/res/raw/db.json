@@ -1,0 +1,498 @@
+{
+  "Laitier": [
+    {
+      "food": "Fromage",
+      "unit": "g",
+      "calories": "4",
+      "protein": "0.09"
+    },
+    {
+      "food": "Lait",
+      "unit": "litre",
+      "calories": "420",
+      "protein": "30"
+    },
+    {
+      "food": "Mozzarella",
+      "unit": "g",
+      "calories": "2.8",
+      "protein": "0.28"
+    },
+    {
+      "food": "Creme fraiche",
+      "unit": "g",
+      "calories": "3",
+      "protein": "0.022"
+    },
+    {
+      "food": "Beurre",
+      "unit": "g",
+      "calories": "7.12",
+      "protein": "0.009"
+    },
+    {
+      "food": "Yaourt",
+      "unit": "g",
+      "calories": "0.6",
+      "protein": "0.04"
+    },
+    {
+      "food": "margarine",
+      "unit": "g",
+      "calories": "7.2",
+      "protein": "0.002"
+    }
+  ],
+  "Pates_et_grains": [
+    {
+      "food": "riz",
+      "unit": "Kg",
+      "calories": "1300",
+      "protein": "27"
+    },
+    {
+      "food": "farine",
+      "unit": "Kg",
+      "calories": "3650",
+      "protein": "100"
+    },
+    {
+      "food": "pain",
+      "unit": "baguette",
+      "calories": "2750",
+      "protein": "86"
+    },
+    {
+      "food": "leuvre",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "bicharbonate de soude",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "chapelure",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "couscous",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "spaghetti",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "pasta",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "cheveux d'ange",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "semoule",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "pate lasagne",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "125"
+    },
+    {
+      "food": "amidon",
+      "unit": "Kg",
+      "calories": "4000",
+      "protein": "0"
+    },
+    {
+      "food": "lentille",
+      "unit": "Kg",
+      "calories": "2700",
+      "protein": "250"
+    },
+    {
+      "food": "pois chiche",
+      "unit": "Kg",
+      "calories": "3700",
+      "protein": "190"
+    },
+    {
+      "food": "haricots",
+      "unit": "Kg",
+      "calories": "3500",
+      "protein": "210"
+    },
+    {
+      "food": "fèves",
+      "unit": "Kg",
+      "calories": "2800",
+      "protein": "250"
+    }
+  ],
+  "Animal": [
+    {
+      "food": "poulet",
+      "unit": "Kg",
+      "calories": "1770",
+      "protein": "270"
+    },
+    {
+      "food": "dinde",
+      "unit": "Kg",
+      "calories": "1570",
+      "protein": "290"
+    },
+    {
+      "food": "agneau",
+      "unit": "Kg",
+      "calories": "2000",
+      "protein": "290"
+    },
+    {
+      "food": "boeuf",
+      "unit": "Kg",
+      "calories": "2900",
+      "protein": "240"
+    },
+    {
+      "food": "Merguez",
+      "unit": "Kg",
+      "calories": "2800",
+      "protein": "250"
+    },
+    {
+      "food": "Jambon",
+      "unit": "Kg",
+      "calories": "2000",
+      "protein": "250"
+    },
+    {
+      "food": "salami",
+      "unit": "Kg",
+      "calories": "3300",
+      "protein": "220"
+    },
+    {
+      "food": "foie d'agneau",
+      "unit": "Kg",
+      "calories": "2400",
+      "protein": "255"
+    },
+    {
+      "food": "foie de poulet",
+      "unit": "Kg",
+      "calories": "2000",
+      "protein": "240"
+    },
+    {
+      "food": "cervelle d'agneau",
+      "unit": "Kg",
+      "calories": "1260",
+      "protein": "88"
+    },
+    {
+      "food": "sardine",
+      "unit": "Kg",
+      "calories": "2010",
+      "protein": "25"
+    },
+    {
+      "food": "thon",
+      "unit": "Kg",
+      "calories": "1100",
+      "protein": "300"
+    },
+    {
+      "food": "poisson",
+      "unit": "Kg",
+      "calories": "2000",
+      "protein": "220"
+    },
+    {
+      "food": "oeuf",
+      "unit": "",
+      "calories": "80",
+      "protein": "6.5"
+    }
+  ],
+  "Epices_et_autres": [
+    {
+      "food": "sucre",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "sel",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "melange d'epices",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "huile d'olive",
+      "unit": "ml",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "huile (Autre)",
+      "unit": "ml",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "poivrier noir",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "cumin",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "Curcuma",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "piment rouge",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "harissa",
+      "unit": "cuillere",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "laurier",
+      "unit": "feuille",
+      "calories": "0",
+      "protein": "0"
+    }
+  ],
+  "Legumes": [
+    {
+      "food": "oignon",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "Ail",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "tomate",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "tomates en conserve",
+      "unit": "cuillere",
+      "calories": "4",
+      "protein": "0"
+    },
+    {
+      "food": "Pomme de terre",
+      "unit": "Kg",
+      "calories": "770",
+      "protein": "18"
+    },
+    {
+      "food": "carotte",
+      "unit": "",
+      "calories": "300",
+      "protein": "7"
+    },
+    {
+      "food": "persil",
+      "unit": "g",
+      "calories": "0",
+      "protein": "0"
+    },
+    {
+      "food": "brocoli",
+      "unit": "",
+      "calories": "350",
+      "protein": "21"
+    },
+    {
+      "food": "collard",
+      "unit": "kg",
+      "calories": "320",
+      "protein": "30"
+    },
+    {
+      "food": "épinard",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "champignon",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "piment",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "céleri",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "salade verte",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "concombre",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "Zucchini",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "olive",
+      "unit": "Kg",
+      "calories": "650",
+      "protein": "0"
+    },
+    {
+      "food": "chou",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "choufleur",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "citrouille",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "menthe",
+      "unit": "Kg",
+      "calories": "350",
+      "protein": "0"
+    },
+    {
+      "food": "aubergine",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "betterave",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "courge",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "butternut",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "poireau",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "câpre",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "artichaut",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "33"
+    },
+    {
+      "food": "panais",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "gombo",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "fenouil",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    },
+    {
+      "food": "navet",
+      "unit": "Kg",
+      "calories": "450",
+      "protein": "7"
+    }
+  ]
+}

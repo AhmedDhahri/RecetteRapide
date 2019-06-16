@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:backgroundTint="@color/BGTint"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginVertical="100dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Astuce rapide"
+            android:textSize="50dp"
+            android:id="@+id/title"
+            android:layout_margin="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="il faut laver les mains avant de manger :/"
+            android:layout_below="@id/title"
+            android:textSize="20dp"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,44 @@
+{
+
+  "Tajin":[
+    "poulet",
+    "Pomme de terre",
+    "oeuf",
+    "Fromage",
+    "persil",
+    "sel",
+    "melange d'epices",
+    "huile d'olive"
+  ],
+  "Ojja":[
+    "oeuf",
+    "sel",
+    "melange d'epices",
+    "huile d'olive",
+    "piment rouge",
+    "tomates en conserve"
+  ],
+  "Chakchouka":[
+    "oeuf",
+    "sel",
+    "melange d'epices",
+    "huile d'olive",
+    "tomate",
+    "piment",
+    "Ail",
+    "oignon",
+    "piment rouge"
+  ],
+  "Spaghetti tunisienne":[
+    "sel",
+    "melange d'epices",
+    "huile d'olive",
+    "tomates en conserve",
+    "piment",
+    "Ail",
+    "piment rouge",
+    "Pomme de terre",
+    "laurier",
+    "spaghetti"
+  ]
+}
