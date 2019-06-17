@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:backgroundTint="@color/BGTint"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginVertical="100dp"
+    tools:context=".Result_activity.Result">
+    <TextView
+        android:layout_alignParentTop="true"
+        android:id="@+id/t"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="35sp"
+        android:textStyle="bold"/>
+
+    <ExpandableListView
+        android:id="@+id/exListV"
+        android:background="@color/list_bg"
+        android:layout_margin="10dp"
+        android:layout_below="@id/t"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
